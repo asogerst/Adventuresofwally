@@ -1,11 +1,7 @@
-# ETL533 Digital Story Website
+# Digital Story Website
 
-This is my digital story project created for the university subject ETL533.
 
-## Overview
 
-This website was created as part of a university assessment for the subject **ETL533**.  
-The task was to design and build a **digital story **. 
 
 ## Features
 
